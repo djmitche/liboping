@@ -227,7 +227,7 @@ whiskers and 2.5% above.
 
 =item B<histogram>
 
-Show a I<histrogram> of the round-trip times. The width of the window is taken
+Show a I<histogram> of the round-trip times. The width of the window is taken
 as round-trip time from 0ms on the left to the I<interval> (the B<-i> option,
 default 1000ms) on the right.
 
